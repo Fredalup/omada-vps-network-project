@@ -8,6 +8,7 @@ Un portail captif personnalisé permet aux utilisateurs de se connecter grâce �
 
 Le projet est déjà déployé et opérationnel, et reste évolutif afin de s’adapter aux futurs besoins en couverture et en nombre d’abonnés.
 
+<h1>Diagramme du réseau</h1>
 <p align=("center")>
 <img src="images/diagramme-du-reseau.png" alt="Diagramme"
   width="200" />
