@@ -2,7 +2,7 @@
 Projet déployé : Réseau local + VPS + VPN + Portail Captif + Omada Cloud
 <h3>Représentation visuelle du réseau</h3>
 <p align="center">
-  <img src="images/representation-visulle-du-reseau.png" alt="Représentation visuelle du réseau" width="300" />
+  <img src="images/representation-visuelle-du-reseau.png" alt="Représentation visuelle du réseau" width="300" />
 </p>
 En tant qu’ingénieur réseau, j’ai conçu et déployé une infrastructure complète et sécurisée pour desservir jusqu’à 40 clients dans une localité. Chaque utilisateur dispose d’un débit moyen de 1 Mbps en téléchargement et 600 Kbps en envoi, assurant une connexion stable et performante.
 
