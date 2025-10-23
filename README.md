@@ -7,3 +7,6 @@ Le système repose sur un serveur VPS interconnecté à un contrôleur Omada Clo
 Un portail captif personnalisé permet aux utilisateurs de se connecter grâce à des codes uniques (vouchers), garantissant un contrôle rigoureux des accès et une sécurité renforcée.
 
 Le projet est déjà déployé et opérationnel, et reste évolutif afin de s’adapter aux futurs besoins en couverture et en nombre d’abonnés.
+
+![Diagramme réseau]
+(diagramme-du-reseau.png)
