@@ -36,17 +36,12 @@ docker images
 <p align=("center"; "font-size:0";)>
 <img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" /><img src="images/Screenshot-3.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
 </p>
-## 3. Sécurisation du pare-feu (UFW)
 
-Le pare-feu **UFW (Uncomplicated Firewall)** est configuré pour limiter les ports ouverts et renforcer la sécurité du serveur.
+## 4 . Vérification de la sécurisation du pare-feu et des services
 
 ```bash
-sudo ufw status
-sudo ufw allow 22/tcp
-sudo ufw allow 51820/udp
-sudo ufw enable
+sudo ufw status verbose
 ```
-
 <p align=("center")>
 <img src="images/Screenshot-4.jpg" alt="Screenshot pour la vérification Sécurisation du pare-feu (UFW)"
  width="300" />
