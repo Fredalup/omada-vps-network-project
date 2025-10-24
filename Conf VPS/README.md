@@ -2,6 +2,18 @@
 
 Ce document décrit la mise en œuvre de mon serveur VPS, incluant la sécurisation, l’isolation des applications et la configuration des services.
 
+## Prérequis
+
+Avant de commencer, je m’assure d’avoir :  
+
+- Un VPS avec **Ubuntu 22.04**  
+- Accès **SSH** avec privilèges sudo  
+- **Docker** et **Docker Compose** installés  
+- Connexion Internet stable  
+- Ports ouverts pour les services :  
+  - 22 (SSH)  
+  - 8043, 8088, 27001, 29810-29817 (Omada)  
+  - 51820 (WireGuard)  
 ---
 
 ## 1. Informations générales
