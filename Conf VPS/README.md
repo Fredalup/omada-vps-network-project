@@ -33,6 +33,6 @@ Toutes les applications sont exécutées dans des conteneurs Docker pour isoler 
 docker ps
 docker images
 ```
-<p align=("center")>
+<p align=("center"; font-size:0;)>
 <img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" /><img src="images/Screenshot-3.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
 </p>
