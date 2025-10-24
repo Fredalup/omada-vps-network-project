@@ -69,8 +69,6 @@ J'ai intégré mon serveur VPS avec **Omada Controller** pour centraliser la ges
 
 ---
 
-## 5.1 Vérification du conteneur Docker
-
 ```bash
 # Vérifier que le conteneur Omada est actif
 docker ps
