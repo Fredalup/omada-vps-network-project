@@ -81,3 +81,8 @@ docker logs omada
 # Vérifier les images Docker présentes
 docker images
 ```
+
+<p align=("center")>
+<img src="images/Screenshot-8.jpg" alt="Screenshot pour la vérification de configurationde Wireguard VPN"
+ width="300">
+</p>
