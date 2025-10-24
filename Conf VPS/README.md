@@ -24,3 +24,13 @@ uname -r
 <p align=("center")>
 <img src="images/Screenshot-1.jpg" alt="Screenshot pour la vérification du système" width="300" />
 </p>
+
+## Isolation des applications avec Docker
+
+Toutes les applications sont exécutées dans des conteneurs Docker pour isoler le système principal et réduire les risques de compromission.
+
+### Commandes de vérification :
+
+```bash
+docker ps
+docker images
