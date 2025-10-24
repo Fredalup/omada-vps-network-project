@@ -34,5 +34,5 @@ docker ps
 docker images
 ```
 <p align=("center")>
-<img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" /> <img src="images/Screenshot-3.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
+<img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" /><img src="images/Screenshot-3.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
 </p>
