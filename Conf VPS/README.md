@@ -47,7 +47,7 @@ sudo ufw status verbose
  width="300" />
 </p>
 
-## 4. Installation et configuration de WireGuard VPN
+## 5. Installation et configuration de WireGuard VPN
 
 J’ai installé **WireGuard** pour créer un tunnel VPN sécurisé entre mon VPS et mes clients distants.  
 Toutes les configurations sont faites.
