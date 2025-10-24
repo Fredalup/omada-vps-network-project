@@ -29,12 +29,10 @@ uname -r
 
 Toutes les applications sont exécutées dans des conteneurs Docker pour isoler le système principal et réduire les risques de compromission.
 
-### Commandes de vérification :
-
 ```bash
 docker ps
 docker images
 ```
 <p align=("center")>
-<img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
+<img src="images/Screenshot-2.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" /> <img src="images/Screenshot-3.jpg" alt="Screenshot pour la vérification d'isolation des applications avec Docker" width="300" />
 </p>
