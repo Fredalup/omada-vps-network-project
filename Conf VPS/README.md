@@ -55,3 +55,9 @@ Toutes les configurations sont faites.
 ```bash
 docker-compose up -d
 docker logs wireguard
+```
+
+<p align=("center")>
+<img src="images/Screenshot-5.jpg" alt="Screenshot pour la vérification de configurationde Wireguard VPN"
+ width="300" />
+</p>
