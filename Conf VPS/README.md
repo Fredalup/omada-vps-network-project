@@ -62,3 +62,22 @@ docker logs wireguard
  width="300" /><img src="images/Screenshot-7.jpg" alt="Screenshot pour la vérification de configurationde Wireguard VPN"
  width="300" />
 </p>
+
+## 6 . Intégration avec Omada Controller
+
+J'ai intégré mon serveur VPS avec **Omada Controller** pour centraliser la gestion de mon réseau TP-Link Omada. L'objectif est de vérifier que le service fonctionne correctement et que le conteneur est actif.
+
+---
+
+## 5.1 Vérification du conteneur Docker
+
+```bash
+# Vérifier que le conteneur Omada est actif
+docker ps
+
+# Vérifier les logs pour s'assurer que le service fonctionne
+docker logs omada
+
+# Vérifier les images Docker présentes
+docker images
+```
