@@ -18,7 +18,7 @@ Vérification de la version d’Ubuntu et du noyau Linux pour garantir la compat
 
 ```bash
 lsb_release -a
-uname -r
+uname -r```
 
 <p align=("center")>
 <img src="images/Screenshot-1.jpg" alt="Screenshot pour la vérification du système" width="300" />
